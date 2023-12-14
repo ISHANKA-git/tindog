@@ -74,3 +74,24 @@ body {
 #features .icon:hover {
     color: #ff4c68;
 }
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+
+}
+
+#testimonials h2 {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#testimonials .testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
