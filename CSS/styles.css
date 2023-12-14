@@ -62,15 +62,15 @@ body {
     font-weight: 700;
 }
 
-p{
+#features p{
     color: #8f8f8f;
 }
 
-.icon {
+#features .icon {
     color: #ef8172;
     margin-bottom: 1rem;
 }
 
-.icon:hover {
+#features .icon:hover {
     color: #ff4c68;
 }
