@@ -47,3 +47,30 @@ body {
     width: 60%;
     transform: rotate(25deg);
 }
+
+#features{
+    padding: 7% 15%;
+}
+
+#features .feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+#features h3{
+    font-family: Montserrat;
+    font-weight: 700;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
